@@ -31,7 +31,7 @@ Bienvenue sur **Voice Ummah** ! Ce projet a été créé avec un seul objectif e
 
 ### 🧕🏼 **Option pour les femmes** :
 - Une fonctionnalité spéciale permet aux femmes de partager et de recevoir des récitations uniquement entre elles, assurant ainsi un espace privé et respectueux.
-- 
+  
 ![image](https://github.com/user-attachments/assets/d6b3ac03-6848-4dc3-a6fa-8714e5dfcaf3)
 
 ### 📚 **Panel des récitations** :
