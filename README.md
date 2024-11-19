@@ -1,6 +1,7 @@
+![Voice Ummah Logo](![image](https://github.com/user-attachments/assets/35b9b064-8ec2-402e-856c-f6f086ceb06e)
+)
 
-
-# Voice Ummah – Bot Telegram
+# Voice Ummah 🕌– Bot Telegram
 
 Bienvenue sur **Voice Ummah** ! Ce projet a été créé avec un seul objectif en tête : partager la parole d'Allah de manière anonyme et sans ostentation, tout en apportant une aide spirituelle à la communauté. 🙏🏽
 
