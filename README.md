@@ -1,5 +1,7 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/35b9b064-8ec2-402e-856c-f6f086ceb06e" alt="Voice Ummah Logo" width="150"/>
+  <a href="https://t.me/VoiceUmmah_bot">
+    <img src="https://github.com/user-attachments/assets/35b9b064-8ec2-402e-856c-f6f086ceb06e" alt="Voice Ummah Logo" width="150"/>
+  </a>
 </p>
 
 
