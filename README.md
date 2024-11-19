@@ -1,5 +1,5 @@
 ![Voice Ummah Logo](![image](https://github.com/user-attachments/assets/35b9b064-8ec2-402e-856c-f6f086ceb06e)
-)
+
 
 # Voice Ummah 🕌– Bot Telegram
 
