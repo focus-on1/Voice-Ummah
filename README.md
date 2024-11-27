@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/35b9b064-8ec2-402e-856c-f6f086ceb06e)
+![Logo](./logo.jpg)
 
 
 # Voice Ummah 🕌– Bot Telegram
